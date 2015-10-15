@@ -57,12 +57,12 @@
       <classifier>windows64</classifier>
       <version>1.5</version>
     </dependency>
-    <dependency>
+    <!--<dependency>
       <groupId>org.fusesource.jansi</groupId>
       <artifactId>jansi-native</artifactId>
       <classifier>osx</classifier>
       <version>1.5</version>
-    </dependency>
+    </dependency>-->
     <dependency>
       <groupId>org.fusesource.jansi</groupId>
       <artifactId>jansi-native</artifactId>
